@@ -2,7 +2,7 @@
 python3を勉強する。
 ## python3の基本
 
-## そのほかのデータ型
+## データ型一覧
 文字列型　　:文字、文字列<br>
 整数型　　　:小数点を含まない数値<br>
 浮動小数点型：小数点を含む数値<br>
@@ -14,7 +14,7 @@ python3を勉強する。
 ```Python
 文字列型　  :str()
 整数型　　  :int()
-日付型　　  :datetime.datetime()
+日付型　　  :datetime()
 配列型　　　：list()
 タプル型　　：tuple()
 浮動小数点型：float()
