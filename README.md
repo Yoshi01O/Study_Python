@@ -1,6 +1,6 @@
 # Study_Python3
 python3を勉強する。
-### python3の基本
+## python3の基本
 文字列型:<br>
 整数型　:<br>
 日付型　:<br>
@@ -9,7 +9,7 @@ python3を勉強する。
 整数型　:int()
 日付型　:datetime.datetime()
 ```
-# そのほかのデータ型
+### そのほかのデータ型
 配列型　　　：<br>
 タプル型　　：<br>
 浮動小数点型：<br>
