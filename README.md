@@ -14,14 +14,14 @@ pythonへの理解を深める。学んだことを自分なりに整理する�
 pythonへの幅広い知識をつける
 
 ## 目次
-Capter01:入出力の章
-→https://github.com/Yoshi01O/Study_Python/blob/main/Capter01.md
-Capter02:if文の章
-→https://github.com/Yoshi01O/Study_Python/blob/main/Capter02.md
-Capter03:listの章
-→
-Capter04:for文の章
-→
-Capter05:
-
-Capter06:
+Capter01:入出力の章<br>
+→https://github.com/Yoshi01O/Study_Python/blob/main/Capter01.md<br>
+Capter02:if文の章<br>
+→https://github.com/Yoshi01O/Study_Python/blob/main/Capter02.md<br>
+Capter03:listの章<br>
+→<br>
+Capter04:for文の章<br>
+→<br>
+Capter05:<br>
+<br>
+Capter06:<br>
