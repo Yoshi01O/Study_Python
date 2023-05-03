@@ -89,9 +89,9 @@ https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E3%83%96%E3%83%
 https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E9%85%8D%E5%88%97list%E5%9E%8B<br>
 タプル　　　型:例↓<br>
 https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E3%82%BF%E3%83%97%E3%83%ABtuple%E5%9E%8B<br>
-辞書　　　　型:例↓<br>
+辞書型:例↓<br>
 https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E8%BE%9E%E6%9B%B8dict%E5%9E%8B<br>
-セット　　　型:例↓<br>
+セット型:例↓<br>
 https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#set%E5%9E%8B<br>
 
 ---
