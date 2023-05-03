@@ -71,9 +71,11 @@ print(a/b)#わり算
 タプル　　　型：複数の要素を（）で囲んだデータ。","で区切る。要素の変更可能<br>
 辞書　　　　型：複数の要素を｛｝で囲んだデータ。：の前後が対応している。","で区切る。要素の変更可能<br>
 セット　　　型：複数の要素を｛｝で囲んだデータ。同一な要素が存在しない。","で区切る。<br>
-###　こちらから飛べます。
+### こちらから飛べます。
 文字列　　　型:例↓<br>
+https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E6%96%87%E5%AD%97%E5%88%97str%E5%9E%8B<br>
 整数　　　　型:例↓<br>
+https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md#%E6%95%B4%E6%95%B0int%E5%9E%8B<br>
 浮動小数点　型:例↓<br>
 日付　　　　型:例↓<br>
 ブール　　　型:例↓<br>
