@@ -62,56 +62,56 @@ print(a/b)#わり算
 
 
 ## データ型一覧
-###文字列(str)型　       :文字、文字列
+### 文字列(str)型　       :文字、文字列
 ```Python
 i= "文字は"
 print(i)
 print(type(i))          
 ```
-###整数(int)型　　　     :小数点を含まない数値
+### 整数(int)型　　　     :小数点を含まない数値
 ```Python
 i= 0
 print(i)
 print(type(i))          
 ```
-###浮動小数点(float)型   ：小数点を含む数値
+### 浮動小数点(float)型   ：小数点を含む数値
 ```Python
 i= 1.0
 print(i)
 print(type(i))          
 ```
-###日付(datetime)型　　　:日付
+### 日付(datetime)型　　　:日付
 ```Python
 import datetime
 i= datetime.date.today()
 print(i)
 print(type(i))
 ```
-###ブール(bool)型　　    ：TrueやFalce
+### ブール(bool)型　　    ：TrueやFalce
 ```Python
 i= 0==0 
 print(i)
 print(type(i))
 ```
-###配列(list)型　　    　：複数の要素を[]で囲んだデータ。","で区切る。要素の変更不可
+### 配列(list)型　　    　：複数の要素を[]で囲んだデータ。","で区切る。要素の変更不可
 ```Python
 i= [0,1,2]
 print(i)
 print(type(i))
 ```
-###タプル(tuple)型　　   ：複数の要素を()で囲んだデータ。","で区切る。要素の変更可能
+### タプル(tuple)型　　   ：複数の要素を()で囲んだデータ。","で区切る。要素の変更可能
 ```Python
 i= (0,1,2)
 print(i)
 print(type(i))
 ```
-###辞書(dict)型　　   　 ：複数の要素を{}で囲んだデータ。","で区切る。要素の変更可能
+### 辞書(dict)型　　   　 ：複数の要素を{}で囲んだデータ。","で区切る。要素の変更可能
 ```Python
 i= {0:"ゼロ",1:"イチ",2:"ニ"}
 print(i)
 print(type(i))
 ```
-###set型　　       　   ：複数の要素を{}で囲んだデータ。同一なデータが存在しない。","で区切る。
+### set型　 　       　   ：複数の要素を{}で囲んだデータ。同一なデータが存在しない。","で区切る。
 ```Python
 i= {0,0,1,2}
 print(i)
