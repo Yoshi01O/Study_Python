@@ -1,7 +1,8 @@
+
 # Study_Python
 pythonを勉強する。＋ある程度使えるようになるガイドを作ってみた。<br>
 作成日：2023/4/27<br>
-更新日：2023/5/3<br>
+更新日：2023/5/5<br>
 著者：栁澤孝彰<br>
 Chapter01~までは、番号順で進むと、分かりやすく学べるように作ってみました。
 
@@ -20,6 +21,6 @@ Chapter03:listの章<br>
 →https://github.com/Yoshi01O/Study_Python/blob/main/Chapter03.md<br>
 Chapter04:for文の章<br>
 →https://github.com/Yoshi01O/Study_Python/blob/main/Chapter04.md<br>
-Chapter05:<br>
-<br>
+Chapter05:データ型一覧<br>
+→<br>
 Chapter06:<br>
