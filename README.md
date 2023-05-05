@@ -21,6 +21,6 @@ Chapter03:listの章<br>
 →https://github.com/Yoshi01O/Study_Python/blob/main/Chapter03.md<br>
 Chapter04:for文の章<br>
 →https://github.com/Yoshi01O/Study_Python/blob/main/Chapter04.md<br>
-Chapter05:データ型一覧<br>
-→<br>
+Chapter05:データ型の章<br>
+→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md<br>
 Chapter06:<br>
