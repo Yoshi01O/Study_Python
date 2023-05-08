@@ -2,7 +2,7 @@
 # Study_Python
 pythonを勉強する。＋ある程度使えるようになるガイドを作ってみた。<br>
 作成日：2023/4/27<br>
-更新日：2023/5/5<br>
+更新日：2023/5/8<br>
 著者：栁澤孝彰<br>
 Chapter01~までは、番号順で進むと、分かりやすく学べるように作ってみました。
 
@@ -13,14 +13,9 @@ pythonへの理解を深める。学んだことを自分なりに整理する�
 pythonの幅広い知識をつける
 
 ## 目次
-Chapter01:入出力の章<br>
-→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md<br>
-Chapter02:if文の章<br>
-→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter02.md<br>
-Chapter03:listの章<br>
-→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter03.md<br>
-Chapter04:for文の章<br>
-→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter04.md<br>
-Chapter05:データ型の章<br>
-→https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md<br>
-Chapter06:<br>
+[Chapter01](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter01.md):入出力の章<br>
+[Chapter02](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter02.md):if文の章<br>
+[Chapter03](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter03.md):listの章<br>
+[Chapter04](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter04.md):for文の章<br>
+[Chapter05](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md):データ型の章<br>
+[Chapter06]():<br>
