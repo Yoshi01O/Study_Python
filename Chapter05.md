@@ -13,15 +13,15 @@
 ---
 
 ### こちらから飛べます。
-[文字列　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%96%87%E5%AD%97%E5%88%97str%E5%9E%8B):例<br>
-[整数　　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%95%B4%E6%95%B0int%E5%9E%8B):例<br>
-[浮動小数点　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%B5%AE%E5%8B%95%E5%B0%8F%E6%95%B0%E7%82%B9float%E5%9E%8B):例<br>
-[日付　　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%97%A5%E4%BB%98datetime%E5%9E%8B):例<br>
-[ブール　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E3%83%96%E3%83%BC%E3%83%ABbool%E5%9E%8B):例<br>
-[配列　　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E9%85%8D%E5%88%97list%E5%9E%8B):例<br>
-[タプル　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E3%82%BF%E3%83%97%E3%83%ABtuple%E5%9E%8B):例<br>
-[辞書　　　　型](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E8%BE%9E%E6%9B%B8dict%E5%9E%8B):例<br>
-セット　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#set%E5%9E%8B)<br>
+文字列　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%96%87%E5%AD%97%E5%88%97str%E5%9E%8B)<br>
+整数　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%95%B4%E6%95%B0int%E5%9E%8B)<br>
+浮動小数点　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%B5%AE%E5%8B%95%E5%B0%8F%E6%95%B0%E7%82%B9float%E5%9E%8B)<br>
+日付　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%97%A5%E4%BB%98datetime%E5%9E%8B)<br>
+ブール　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E3%83%96%E3%83%BC%E3%83%ABbool%E5%9E%8B)<br>
+配列　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E9%85%8D%E5%88%97list%E5%9E%8B)<br>
+タプル　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E3%82%BF%E3%83%97%E3%83%ABtuple%E5%9E%8B)<br>
+辞書　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E8%BE%9E%E6%9B%B8dict%E5%9E%8B)<br>
+セット　　　型:[例](https://github.com/Yoshiaki010/Study_Python/blob/main/Chapter05.md#%E3%82%BB%E3%83%83%E3%83%88set%E5%9E%8B)<br>
 
 ---
 
