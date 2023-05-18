@@ -14,4 +14,4 @@ pythonの幅広い知識をつける
 [Chapter03](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter03.md):`list`の章<br>
 [Chapter04](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter04.md):`for`文の章<br>
 [Chapter05](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md):データ型の章<br>
-[Chapter06]():<br>
+[Chapter06]()
