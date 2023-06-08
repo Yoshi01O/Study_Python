@@ -69,4 +69,4 @@ print(a-b)#ひき算
 print(a*b)#かけ算
 print(a/b)#わり算
 ```
-[次の章へ行く]()
+[次の章へ行く](https://github.com/Yoshiaki010/Study_Python/blob/main/Chapter02.md)
