@@ -1,11 +1,11 @@
 # データ型の章
 
 ## データ型一覧
-文字列　　　型：文字、文字列<br>
-整数　　　　型：小数点を含まない数値<br>
-浮動小数点　型：小数点を含む数値<br>
-日付　　　　型：日付<br>
-ブール　　　型：TrueやFalse<br>
+文字列　　　型：文字列。<br>
+整数　　　　型：小数点を含まない数値。<br>
+浮動小数点　型：小数点を含む数値。<br>
+日付　　　　型：日付。<br>
+ブール　　　型：TrueやFalse。<br>
 配列　　　　型：複数の要素を［］で囲んだデータ。","で区切る。要素の変更不可<br>
 タプル　　　型：複数の要素を（）で囲んだデータ。","で区切る。要素の変更可能<br>
 辞書　　　　型：複数の要素を｛｝で囲んだデータ。：の前後が対応している。","で区切る。要素の変更可能<br>
@@ -14,7 +14,7 @@
 ---
 
 ### こちらから飛べます。
-文字列　　　型:[例](#文字列(str)型)<br>
+文字列　　　型:[例]()<br>
 整数　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%95%B4%E6%95%B0int%E5%9E%8B)<br>
 浮動小数点　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%B5%AE%E5%8B%95%E5%B0%8F%E6%95%B0%E7%82%B9float%E5%9E%8B)<br>
 日付　　　　型:[例](https://github.com/Yoshi01O/Study_Python/blob/main/Chapter05.md#%E6%97%A5%E4%BB%98datetime%E5%9E%8B)<br>
@@ -73,7 +73,7 @@ print(type(i))
 ```Python
 i= {0:"ゼロ",1:"イチ",2:"ニ"}
 print(i)
-cdprint(i[0])
+print(i[0])
 print(type(i))
 ```
 ### セット(set)型
