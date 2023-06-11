@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
 # 入出力の章
 こちらの章は、関数、入出力、データ型、四則演算についてです。てんこ盛り！
 ## コードを書く前に
@@ -70,3 +76,5 @@ print(a*b)#かけ算
 print(a/b)#わり算
 ```
 [次の章へ行く](https://github.com/Yoshiaki010/Study_Python/blob/main/Chapter02.md)
+</body>
+</html>
