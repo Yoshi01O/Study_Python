@@ -22,7 +22,7 @@
       <a href="Py_Chapter03.html">[Chapter03]</a>:`list`の章<br>
       <a href="Py_Chapter04.html">[Chapter04]</a>:`for`文の章<br>
       <a href="Py_Chapter05.html">[Chapter05]</a>:データ型の章<br>
-      [Chapter06]()
+      <a href="Py_Chapter06.html">[Chapter06]</a>:未定の章<br> 
     </p>
   </body>
 </html>
