@@ -8,7 +8,7 @@
     <p>
       <h1>勉強したことをそれぞれまとめてみた！</h1>
       <h2>言語</h2>
-      <a href="Pymain.html">[Python]</a>:python言語（競プロ、データ分析用途）<br>
+      <a href="Py/Pymain.html">[Python]</a>:python言語（競プロ、データ分析用途）<br>
       <a href=".html">[C#]</a>:C#言語（Unity用途）<br>
       <a href=".html">[C]</a>:C言語（セキュリティ）<br>
       <h2>大学授業内成果</h2>
