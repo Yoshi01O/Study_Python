@@ -1,1 +1,14 @@
-.Textcenter { text-align: center; }
+body 
+{
+   background-color: #F0F0FF;
+ }
+h1 
+{
+    text-align: center;
+    color: #008000;
+}
+
+.Textcenter { 
+    text-align: center; 
+
+}
