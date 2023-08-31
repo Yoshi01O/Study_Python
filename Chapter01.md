@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="Standerdstyle.css">
-  </head>
-  <body>
     <h1>入出力の章</h1>
     <p>
       こちらの章は、関数、入出力、データ型について説明します。
@@ -92,5 +85,3 @@ print(x)
     <p style="text-align:center">
       <a href="Pymain.html">メイン</a>
     </p>
-  </body>
-</html>
